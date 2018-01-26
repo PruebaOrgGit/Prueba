@@ -6,3 +6,5 @@
 
 
 #git diff archivo
+
+#Cuando inciamos un nuevo repositorio siempre nos encontraremos en la rama master
